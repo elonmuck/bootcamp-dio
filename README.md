@@ -42,3 +42,57 @@ a `dio` oferece cursos, mentorias, desafios de código e desafios de projeto.
 * abdução - apartir de algo observado eu suponho certa coisa
 
 * decomposição - dividir o problema principal em problemas menores a fim do reconheciemnto de padrões
+
+#### `como são construídos os algorítmos?`
+
+* compreensão do problema
+
+* definição dos dados de entrada
+
+* definir processamento
+
+* definir dados de sáida
+
+* utilizar método de construção
+
+* teste e diagnóstico
+
+#### `o que é lógica?`
+
+* vem para solucionar um problema
+
+* é uma forma de pensar em prol da solução de problemas
+
+#### `instruções primitivas`
+
+* irão determinar as ações que iremos executar em relação aos nossos dados
+
+* é uma linguagem de palavras chave de uma determinada programação
+
+#### `estruturas condicional e operadosres`
+
+* é uma estrutura que precisará de uma dependência de outra variável
+
+#### `estruturas de repetição`
+
+* é relacionados as condições das varáveis
+
+#### `vetores e matrizes`
+
+* vetor é uma sequência de dados variáveis
+
+* matriz é uma tabela orgância com linhas e colunas(a matriz é feita de vetores)
+
+#### `funções`
+
+* conhecidas também como: subprograma, subalgorítmo, bloco e método.
+
+#### `característca de um programa`
+
+* legibilidade
+* redgibilidade
+* confiabilidade
+* custo
+
+## introdução ao git e ao github
+
